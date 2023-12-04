@@ -3,9 +3,12 @@
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=PliushchenkovNikolai&color=268f77&label=Hey!!!+Visitor)
 
+
 - 👀 I'm developing for apple devices
   
 - 🌱 I’m currently learning **swift, swifui, realm**
+
+- 📱 Here are some applications I've been working on: [StockFlow](https://apps.apple.com/ua/app/stockflow-stocktaking/id6469111459)
   
 - 💞️ I am looking for an opportunity to collaborate with a company that implements new approaches in application development.
   
